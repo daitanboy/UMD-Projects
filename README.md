@@ -1,1 +1,1 @@
-UMD Projects
+University of Maryland Programming Projects
