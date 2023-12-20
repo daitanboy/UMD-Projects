@@ -1,1 +1,1 @@
-INST126 Final Projects
+UMD INST126 Final Projects
